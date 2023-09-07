@@ -9,7 +9,7 @@ PowerShell returns the last update time of Windows.
 This PowerShell script, which is very useful in cybersecurity audits, checks all computers that are members of the Active Directory domain for the installation of the latest Microsoft Windows updates and stores the information in a CSV file.
 
 ## Getting Started
-Change "CN=Computers,DC=Domain,DC=Com" with your parameters
-run as administartor
-and result store in .\Desktop\result.csv 
+1. Change "CN=Computers,DC=Domain,DC=Com" with your parameters
+2. run as administartor
+3. result store in .\Desktop\result.csv 
 
