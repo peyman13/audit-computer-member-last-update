@@ -1,4 +1,4 @@
-# Audit which computers in the DC are updated.
+# Audit which computers in the AD are updated.
 
 [![GitHub license](https://img.shields.io/github/license/Peyman13/audit-computer-member-last-update)](https://github.com/Peyman13/audit-computer-member-last-update/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Peyman13/audit-computer-member-last-update)](https://github.com/Peyman13/audit-computer-member-last-update/stargazers)
