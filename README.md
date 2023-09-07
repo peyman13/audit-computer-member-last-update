@@ -11,5 +11,5 @@ This PowerShell script, which is very useful in cybersecurity audits, checks all
 ## Getting Started
 Change "CN=Computers,DC=Domain,DC=Com" with your parameters
 run as administartor
-and result store in .\Desktop\file.csv 
+and result store in .\Desktop\result.csv 
 
