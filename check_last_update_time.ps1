@@ -14,7 +14,7 @@ foreach ($computer in $computers) {
    }
 }
 
-$report | Export-Csv -Path .\Desktop\file.csv 
+$report | Export-Csv -Path .\Desktop\result.csv 
 
 
 
