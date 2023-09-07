@@ -1,8 +1,8 @@
 # Audit which computers in the DC are updated.
 
-[![GitHub license](https://img.shields.io/github/license/YourUsername/YourRepositoryName)](https://github.com/YourUsername/YourRepositoryName/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepositoryName)](https://github.com/YourUsername/YourRepositoryName/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YourUsername/YourRepositoryName)](https://github.com/YourUsername/YourRepositoryName/network)
+[![GitHub license](https://img.shields.io/github/license/Peyman13/audit-computer-member-last-update)](https://github.com/Peyman13/audit-computer-member-last-update/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Peyman13/audit-computer-member-last-update)](https://github.com/Peyman13/audit-computer-member-last-update/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Peyman13/audit-computer-member-last-update)](https://github.com/Peyman13/audit-computer-member-last-update/network)
 
 PowerShell returns the last update time of Windows.
 
