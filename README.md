@@ -10,6 +10,6 @@ This PowerShell script, which is very useful in cybersecurity audits, checks all
 
 ## Getting Started
 1. Change "CN=Computers,DC=Domain,DC=Com" with your parameters
-2. run as administartor
+2. run as administrator
 3. result store in .\Desktop\result.csv 
 
